@@ -1,0 +1,14 @@
+{
+  "name": "shopping_list",
+  "version": "1.0.0",
+  "description": "an ex[eriment on how to use electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ngugi Ephy",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
